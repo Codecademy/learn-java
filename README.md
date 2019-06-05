@@ -42,7 +42,7 @@ $ java HelloWorld
 
 - [ ] `HelloWorld.java`
 
-**Project**
+**Planting a Tree**
 
 - [ ] TBD
 
