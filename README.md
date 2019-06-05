@@ -87,8 +87,8 @@ $ java HelloWorld
 ### Java Style Guides ###
 
 * Codecademy Java Style Guide
-* [Microsoft Java Style Guide](https://github.com/Microsoft/AirSim/blob/master/docs/coding_guidelines.md)
-* [Google Java Style Guide](https://google.github.io/styleguide/cppguide.html)
+* [Twitter Java Style Guide](https://github.com/twitter/commons/blob/master/src/java/com/twitter/common/styleguide.md)
+* [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 
 ### Java Cheatsheets ###
 
