@@ -40,7 +40,7 @@ $ javac HelloWorld.java
 $ java HelloWorld
 ```
 
-- [ ] [`HelloWorld.java`]
+- [ ] `HelloWorld.java`
 
 **Project**
 
