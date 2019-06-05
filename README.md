@@ -82,13 +82,13 @@ $ java HelloWorld
 
 ## 8. Graphics ##
 
-- [ ] `pointers.cpp`
+- [ ] [`NextYear.java`](9-graphics/NextYear.java)
 
 ### Java Style Guides ###
 
 * Codecademy Java Style Guide
-* [Microsoft C++ Style Guide](https://github.com/Microsoft/AirSim/blob/master/docs/coding_guidelines.md)
-* [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+* [Microsoft Java Style Guide](https://github.com/Microsoft/AirSim/blob/master/docs/coding_guidelines.md)
+* [Google Java Style Guide](https://google.github.io/styleguide/cppguide.html)
 
 ### Java Cheatsheets ###
 
