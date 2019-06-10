@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class Greetings {
+public class NextYear {
 
     public static void main (String[] args) {
 
