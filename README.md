@@ -72,7 +72,7 @@ $ java HelloWorld
 
 - [ ] TBD
 
-## 5. Arrays and ArrayLists##
+## 5. Arrays and ArrayLists ##
 
 **Desert Island Playlist:**
 
