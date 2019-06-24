@@ -48,41 +48,35 @@ $ java HelloWorld
 
 ## 2. Variables ##
 
-**Project:**
-
-## 3. Conditionals & Logic ##
+**Mad Libs:**
 
 - [ ] TBD
 
-**Project**
-
-## 4. Loops ##
+**Math Magic:**
 
 - [ ] TBD
 
-**Project**
+## 3. Object-Oriented Java ##
 
-## 5. Arrays ##
-
-- [ ] `tokyo.cpp`
-
-**Project**
-
-## 6. Functions ##
-
-**Project**
-
-- [ ] [UFO](6-functions)
-
-## 7. Classes & Objects ##
+**A Basic Calculator:**
 
 - [ ] TBD
 
-**Project**
+**Build A Droid:**
 
-## 8. Graphics ##
+- [ ] TBD
 
-- [ ] [`NextYear.java`](9-graphics/NextYear.java)
+## 4. Conditionals and Control Flow ##
+
+**A Simple Car Loan Payment Calculator:**
+
+- [ ] TBD
+
+## 5. Arrays and ArrayLists##
+
+**Desert Island Playlist:**
+
+- [ ] TBD
 
 ### Java Style Guides ###
 
