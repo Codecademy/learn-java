@@ -76,7 +76,7 @@ $ java HelloWorld
 
 **Desert Island Playlist:**
 
-- [ ] TBD
+- [ ] [`Playlist.java`](5-arrays-arraylists/Playlist.java)
 
 ### Java Style Guides ###
 
