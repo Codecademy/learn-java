@@ -31,15 +31,14 @@ class Playlist {
     desertIslandPlaylist.remove("MF DOOM - Guinnesses");
     desertIslandPlaylist.remove("Jean Grae - Threats");
     
-    // System.out.println(desertIslandPlaylist);
+    System.out.println(desertIslandPlaylist);
     
     // swapping songs
-    int indexA = desertIslandPlaylist.indexOf("Buena Vista Social Club - Murmullo");
-    int indexB = desertIslandPlaylist.indexOf("A Tribe Called Quest - Electric Relaxation");
+    int indexA = desertIslandPlaylist.indexOf("A Tribe Called Quest - Electric Relaxation");
+    int indexB = desertIslandPlaylist.indexOf("Buena Vista Social Club - Murmullo");
+    String tempA = desertIslandPlaylist.get(indexA);
     
-    String tempA = "Buena Vista Social Club - Murmullo";
-    
-    desertIslandPlaylist.set(indexA, "A Tribe Called Quest - Electric Relaxation");
+    desertIslandPlaylist.set(indexA, desertIslandPlaylist.get(indexB));
     // System.out.println(desertIslandPlaylist);
     desertIslandPlaylist.set(indexB, tempA);
     System.out.println(desertIslandPlaylist);
