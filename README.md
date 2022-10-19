@@ -4,7 +4,7 @@
 
 <!-- [![](https://img.shields.io/badge/language-English-blue.svg)](./README.md) -->
 
-**Curriulum Developer:** Sonny Li (sonny@codecademy.com) [![alt text][1]][1.1] [![alt text][6]][6.1]
+**Curriulum Developer:** Sonny Li 
 
 <!-- links to social media icons -->
 
@@ -19,8 +19,6 @@
 
 <!-- links to social media accounts -->
 
-[1.1]: http://www.twitter.com/sonnynomnom
-[6.1]: http://www.github.com/sonnynomnom
 
 [1.2]: http://www.twitter.com/marielsmusings
 [6.2]: http://www.github.com/marielfrank
